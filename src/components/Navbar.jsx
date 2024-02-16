@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 
 import { logo } from "src/assets/images";
-
+// could be the relative path is incorrect, or filename
 const Navbar = () => {
   return (
     <header className='header'>
