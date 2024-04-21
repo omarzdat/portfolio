@@ -179,27 +179,27 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Sentiment Driven Stock Management',
         description: 'Developed a system of lambdas that analyses social media posts with NLTK to provide sentiment analysis, then built a stock trading MVP around this functionality.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://temp-six-bay.vercel.app/dashboard',
     },
     {
         iconUrl: circles,
         theme: 'btn-back-green',
         name: 'AI-Driven Calendaring App',
-        description: 'In 48 hours, created a full-stack AI-powered NLP calendaring solution.',
-        link: 'https://github.com/adrianhajdin/threads',
+        description: 'In 48 hours, created a full-stack AI-powered NLP calendaring solution. Pitched and submitted this application to UNIHACK 2024!',
+        link: 'https://devpost.com/software/circles-4j2rug#updates',
     },
     {
         iconUrl: lighthouse,
         theme: 'btn-back-blue',
         name: 'Social Media Aggregator',
         description: 'In 24 hours, coneptualised, designed, built and pitched an MVP of a social media aggregator, judged second in CSESoc\'s Flagship Hackathon by judges from Google, Pearler and Canva.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://github.com/2022hackathon/lighthouse',
     },
     {
         iconUrl: squirrel,
         theme: 'btn-back-pink',
         name: 'Full Stack Invoice Manager',
         description: 'Built a simple API system with a basic HTML/CSS Frontend that utilises Optus API to receive and send invoices.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: 'https://github.com/SENG2021-LCB',
     }
 ];

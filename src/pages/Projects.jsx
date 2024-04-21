@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 
 import { CTA } from "../components";
 import { projects } from "../constants";
-import { arrow } from "../assets/icons";
 
 const Projects = () => {
   return (
@@ -47,7 +46,7 @@ const Projects = () => {
                   rel='noopener noreferrer'
                   className='font-semibold text-orange-600'
                 >
-                  Live Link
+                  Check it out!
                 </Link>
               </div>
             </div>
